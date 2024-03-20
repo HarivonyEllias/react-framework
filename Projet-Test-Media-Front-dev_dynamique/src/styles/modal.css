@@ -1,0 +1,17 @@
+.modal-content::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+  .modal-content::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  .modal-content::-webkit-scrollbar-thumb {
+    background: #ffffff;
+    border-radius: 5px; 
+  }
+  
+  .modal-content::-webkit-scrollbar-thumb:hover {
+    background: #f5f4f4;
+  }
+  

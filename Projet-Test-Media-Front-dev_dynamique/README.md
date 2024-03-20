@@ -1,0 +1,17 @@
+- **my-react-app/** : Le dossier racine de l'application.
+  - **public/** : Contient les fichiers statiques de l'application.
+    - **index.html** : Fichier HTML principal de l'application.
+    - **favicon.ico** : Icône de l'application.
+  - **src/** : Dossier source principal de l'application.
+    - **components/** : Contient des composants réutilisables.
+      - **Component1.js** : Exemple de composant réutilisable.
+      - **Component2.js** : Autre exemple de composant réutilisable.
+    - **pages/** : Contient des composants représentant des pages entières de l'application.
+      - **Page1.js** : Composant représentant la page 1 de l'application.
+      - **Page2.js** : Composant représentant la page 2 de l'application.
+    - **services/** : Contient les services qui gèrent les appels aux API ou autres interactions avec le backend.
+      - **ApiService.js** : Service gérant les appels aux API.
+    - **styles/** : Contient les fichiers de style CSS de l'application.
+      - **style.css** : Exemple de fichier de style CSS.
+    - **App.js** : Composant racine de l'application.
+    - **index.js** : Point d'entrée de l'application où React est monté dans le DOM.
